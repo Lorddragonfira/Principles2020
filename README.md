@@ -26,4 +26,11 @@
 
 ## Principle 3: Collection of Information
 
-### 
+### The vendor must be very clear and open to the client why they are collecting the information and what they will be doing with this information
+- [ ] Notify the clients when they are giving the information, why we need the data, who is receiving the data, whether it is compulsory or volantary and what will happen if they refuse to give information. For example online magazine subscription, explain during the collection process...... why do we need email - so that we have an address/location to send the subscription, who is getting this info - We are, whether its compulsory or volantary, What will happen on refusal - You dont get the subsciption services.
+- [ ] There are exceptions to this though, if it is not practically reasonable under certain circumstances. For example the safety of a person, the maintanence of the law. E.G online magazine - we need their email as the law requires us to send this to your email address as it will save the whole world but it needs to be done without your consent or knowledge.  
+
+## Principle 5: Storage and Security of the personal information
+
+### Personal information should be safeguarded to prevent loss, theft, disclosure or misuse. 
+- [ ] 
