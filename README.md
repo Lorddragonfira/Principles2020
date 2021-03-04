@@ -6,3 +6,6 @@
 
 - [ ] Have a personal settings page where one can edit their personal information at any time as long as its within the reasons and the confines of what we need/want/allow
 - [ ] Have a checking system or complaints page where they can directly contact the support team. Which will then explain why certain corrections were refused, and that although we did can't correct they have the rights to complain to a privacy comissioner or they have the rights to have their statement of correction attached to the disputed information.
+
+
+## Principle 1: 
