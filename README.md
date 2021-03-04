@@ -1,3 +1,4 @@
+[privacyPolicy__StudentID_.doc.docx](https://github.com/Lorddragonfira/Principles2020/files/6082763/privacyPolicy__StudentID_.doc.docx)
 # Principles2020
 
 ## Principle 7: Correction of Personal Information
