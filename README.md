@@ -13,7 +13,7 @@
 ### An IT software must only collect the personal information that they need for their purpose and use data minimization to ensure no other unnecessary data is collected.
 
 - [ ] Make sure to only include the necessary Personal Information in the collection form. For example an online magazine subscription should only need email address and name not their drivers license and passport numbers.
-- [ ] Need to be very clear and explain to the client when collecting personal information the purpose for the data collection. For example an online magazine subscription only needs email and name so they can send the Magazine to the correct person.
+- [ ] Need to be very clear and explain to the client when collecting personal information the purpose for the data collection. For example an online magazine subscription only needs email and name so they can send the Magazine to the correct person and they need to make it very clear before the collection form.
 
 ## Principle 2: Source of personal information 
 
