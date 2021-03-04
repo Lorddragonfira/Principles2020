@@ -42,4 +42,4 @@
 ### Be clear on where the personal information is held, let them know that they have the rights to seek confirmation of the right agency having the information. and access to it if needed.  
 - [ ] An Online magazine subscription service can create a login or personal detail page for them so they can access the information they have given at any time. 
 - [ ] Need to provide assistance with their access, the magazine subscription can have an easy to see icon or page with a support team that is dedicated to helping them access their page.
-- [ ] If the personal information is not in the form they requested then we have to inform them and give it to them within 20 working days. 
+- [ ] If the personal information is not in the form they requested then we have to inform them and give it to them within 20 working days. e.g they don't want to see an online profile but want the information on paper.
