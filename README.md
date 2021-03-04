@@ -52,12 +52,12 @@
 
 ## 3. Youtube Privacy Policy I made using policy generator 
 We collect personal information from you, including information about your:
-name
-contact information
-location
-computer or network
-interactions with us
-billing or purchase information
+name,
+contact information,
+location,
+computer or network,
+interactions with us,
+billing or purchase information,
 
 We collect your personal information in order to:
 Provide our services of sharing , listening and building an online community.
