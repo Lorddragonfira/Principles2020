@@ -50,7 +50,7 @@
 1. Youtube 
 2. The website I have chosen is www.youtube.com, it is an online platform which allows individuals to share, listen and build communities through their own unique voices (Mostly in the form of video and sound). Their purpose is to promote freedom of self expression, information and opportunity. Their motto/mission is literally "to give everyone a voice and to show" it to the whole world. You can make an account with Youtube and the type of data they collect is, Name and Gender, Personal details such as as phone number, emails, they collect your digital footprint such as your recent searches and videos you watched or liked, thus based on this information able to configure your interests, hobbies and preferences. So essentially they take both data we have given them and data they collect as we use their services. 
 
-## 3. Youtube Privacy Policy I made using policy generator. AKA privacyPolicy.html [privacyPolicy__20210558_.doc.docx](https://github.com/Lorddragonfira/Principles2020/files/6082781/privacyPolicy__20210558_.doc.docx)
+## 3. Youtube Privacy Policy I made using policy generator. AKA privacyPolicy.html
 We collect personal information from you, including information about your:
 name,
 contact information,
@@ -64,7 +64,7 @@ Provide our services of sharing , listening and building an online community.
 
 Besides our staff, we share this information with:
 Google in order to maintain and improve our services, develop better services, provide personalized services, measure data, communication with the consumer, and to protect users and Google/Youtube.
-We keep your information safe by storing it in encrypt files in multiple locations and data randomization and Physical security .
+We keep your information safe by storing it in encrypted files in multiple locations, which are also unreadable by humans, through data randomization and with physical security .
 
 We keep your information for 18 months at which point we securely destroy it by securely erasing the data, or physically through a crusher or shredder.
 You have the right to ask for a copy of any personal information we hold about you, and to ask for it to be corrected if you think it is wrong. If you’d like to ask for a copy of your information, or to have it corrected, please contact us at https://support.google.com/, or (866) 777-7550
