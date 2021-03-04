@@ -49,7 +49,8 @@
 ## Privacy Policy
 1. Youtube 
 2. The website I have chosen is www.youtube.com, it is an online platform which allows individuals to share, listen and build communities through their own unique voices. Their purpose is to promote freedom of self expression, information and opportunity. Their motto/mission is literally "to give everyone a voice and to show" it to the whole world. You can make an account with Youtube and the type of data they collect is, Name and Gender, Personal details such as as phone number, emails, they collect your digital footprint such as your recent searches and videos you watched or liked, thus based on this information able to configure your interests, hobbies and preferences. So essentially they take both data we have given them and data they collect as we use their services. 
-3-4.  We collect personal information from you, including information about your:
+
+3.  We collect personal information from you, including information about your:
 name
 contact information
 location
