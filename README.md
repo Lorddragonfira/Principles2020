@@ -50,7 +50,7 @@
 1. Youtube 
 2. The website I have chosen is www.youtube.com, it is an online platform which allows individuals to share, listen and build communities through their own unique voices. Their purpose is to promote freedom of self expression, information and opportunity. Their motto/mission is literally "to give everyone a voice and to show" it to the whole world. You can make an account with Youtube and the type of data they collect is, Name and Gender, Personal details such as as phone number, emails, they collect your digital footprint such as your recent searches and videos you watched or liked, thus based on this information able to configure your interests, hobbies and preferences. So essentially they take both data we have given them and data they collect as we use their services. 
 
-## 3. Youtube Privacy Policy I made using policy generator 
+## 3. Youtube Privacy Policy I made using policy generator. AKA privacyPolicy.html
 We collect personal information from you, including information about your:
 name,
 contact information,
@@ -68,3 +68,10 @@ We keep your information safe by storing it in encrypt files in multiple locatio
 
 We keep your information for 18 months at which point we securely destroy it by securely erasing the data, or physically through a crusher or shredder.
 You have the right to ask for a copy of any personal information we hold about you, and to ask for it to be corrected if you think it is wrong. If you’d like to ask for a copy of your information, or to have it corrected, please contact us at https://support.google.com/, or (866) 777-7550
+
+## 5. How this applies to the 5 principles which I chose
+It follows Principle 7 by allowing the individual to have the ability to correct the information Youtube has on them. The policy clearly outlines that you can contact us through email or phone number if you want the personal information we hold about you to be corrected if wrong.
+It follows Principle 1 by clearly stating our purpose for collecting. E.G sharing, listening and building. It also clearly sttates the type of personal information we will be collecting about the individual by listing the information we are collecting E.G Name, contact, location, etc.
+It follows Principle 2 by stating that we are collecting information about you from YOU!
+It follows Principle 3 by clearly stating why we are collecting the information and who will be getting the information. This private policy even includes the other agency/third party agency that will have access to your information.
+It follows Principle 5 by including a statement on how we store the individuals data, how long we store it for and what measures we have taken to prevent any loss, theft, misuse or disclosure. 
