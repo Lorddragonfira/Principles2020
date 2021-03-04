@@ -20,7 +20,7 @@
 ### An IT software must establish who the best person is to aquire personal data about an individual from. (Usually the individual who the personal information is about.) However, consent and authentication must be thoroughly checked to insure that the right individual's personal information is being collected. 
 
 - [ ] Have an authentication system that thoroughly confirms and checks the person who we are collecting information from accepts and gives consent for the personal information being collected. This person is usually the person themselves of course. In NZ we can use Realme or use two or three factor authentification systems. For example 1:Email address, 2: Phone Number, 3: Have an app authenticator (Blizzard authenticator app)
-- [ ] When the person gives personal data about someone else, make sure you have consent from the individual whom it concerns or that lawfully it is okay. E.g Have a system in place where consent legitamacy can be checked and given or talking to the law enforcement and getting information that way as having the information be aquired with the individuals consent might coincide with the law.
+- [ ] When the person gives personal data about someone else, make sure you have consent from the individual whom it concerns or that lawfully it is okay. E.g Have a system in place where consent legitamacy can be checked and given. Working with the law enforcement and getting information through them. Only do this when attaining the information of the individuals through their consent might coincide with the law.
 - [ ] Have systems in check for any secrity flaws, e.g have some try and cheat the authentication system or "hack" into a persons account, and have them report the findings and where improvements can be made.
 
 
