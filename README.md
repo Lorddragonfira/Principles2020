@@ -70,8 +70,8 @@ We keep your information for 18 months at which point we securely destroy it by 
 You have the right to ask for a copy of any personal information we hold about you, and to ask for it to be corrected if you think it is wrong. If you’d like to ask for a copy of your information, or to have it corrected, please contact us at https://support.google.com/, or (866) 777-7550
 
 ## 5. How this applies to the 5 principles which I chose
-It follows Principle 7 by allowing the individual to have the ability to correct the information Youtube has on them. The policy clearly outlines that you can contact us through email or phone number if you want the personal information we hold about you to be corrected if wrong.
-It follows Principle 1 by clearly stating our purpose for collecting. E.G sharing, listening and building. It also clearly sttates the type of personal information we will be collecting about the individual by listing the information we are collecting E.G Name, contact, location, etc.
-It follows Principle 2 by stating that we are collecting information about you from YOU!
-It follows Principle 3 by clearly stating why we are collecting the information and who will be getting the information. This private policy even includes the other agency/third party agency that will have access to your information.
-It follows Principle 5 by including a statement on how we store the individuals data, how long we store it for and what measures we have taken to prevent any loss, theft, misuse or disclosure. 
+1. It follows Principle 7 by allowing the individual to have the ability to correct the information Youtube has on them. The policy clearly outlines that you can contact us through email or phone number if you want the personal information we hold about you to be corrected if wrong.
+2. It follows Principle 1 by clearly stating our purpose for collecting. E.G sharing, listening and building. It also clearly sttates the type of personal information we will be collecting about the individual by listing the information we are collecting E.G Name, contact, location, etc.
+3. It follows Principle 2 by stating that we are collecting information about you from YOU!
+4. It follows Principle 3 by clearly stating why we are collecting the information and who will be getting the information. This private policy even includes the other agency/third party agency that will have access to your information.
+5. It follows Principle 5 by including a statement on how we store the individuals data, how long we store it for and what measures we have taken to prevent any loss, theft, misuse or disclosure. 
