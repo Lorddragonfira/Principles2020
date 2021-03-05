@@ -10,7 +10,8 @@
 
 ## Principle 1: Purpose of collection of Personal Information
 
-### An IT software must only collect the personal information that they need for their purpose and use data minimization to ensure no other unnecessary data is collected.
+### An IT software must only collect the personal information that they need for their purpose and use data minimization to ensure no other unnecessary data is collected. 
+<!-- excellent summary-->
 
 - [ ] Make sure to only include the necessary Personal Information in the collection form. For example an online magazine subscription should only need an email address and name not their drivers license and passport numbers.
 - [ ] Need to be very clear and explain to the client when collecting personal information the purpose of the data collection. For example an online magazine subscription only needs email and name so they can send the Magazine to the correct person and they need to make it very clear before the collection form.
@@ -48,3 +49,4 @@
 
 Privacy Policy
 1. 
+<!-- very good start don't forget that you can use a privacy policy generator for this part of the assignment -->
