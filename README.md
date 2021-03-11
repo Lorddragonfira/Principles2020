@@ -47,8 +47,6 @@
 
 
 
-Privacy Policy
-1. 
 <!-- very good start don't forget that you can use a privacy policy generator for this part of the assignment -->
 
 ## Privacy Policy
